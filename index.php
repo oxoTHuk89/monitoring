@@ -29,6 +29,7 @@ if(ADMIN){
 		echo $deleteServers;
 			exit();
 	}
+
 }
 
 $smarty = new Smarty();
